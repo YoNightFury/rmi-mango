@@ -1,0 +1,5 @@
+body{
+    background-image: url(/public/images/mango-background.jpeg), linear-gradient(yellow, rgb(226, 159, 36),rgb(102, 255, 0));
+    background-size: contain;
+    background-repeat: no-repeat;
+}
